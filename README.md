@@ -17,13 +17,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist wbraganca/yii2-dynamicform "*"
+php composer.phar require --prefer-dist joindev/yii2-dynamicform-inventor "*"
 ```
 
 or add
 
 ```
-"wbraganca/yii2-dynamicform": "*"
+"joindev/yii2-dynamicform-inventor": "*"
 ```
 
 to the require section of your `composer.json` file.
