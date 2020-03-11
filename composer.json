@@ -1,5 +1,5 @@
 {
-    "name": "wbraganca/yii2-dynamicform",
+    "name": "wbraganca/yii2-dynamicform-inventor",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
         "wbraganca",
@@ -24,6 +24,7 @@
             "homepage": "http://wbraganca.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {
         "yiisoft/yii2": "~2.0.5",
         "symfony/css-selector": "~2.8|~3.0",
