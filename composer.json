@@ -1,6 +1,6 @@
 {
     "version": "1.1.1",
-    "name": "joindev/yii2-dynamicform-inventor",
+    "name": "velheorius/yii2-dynamicform-inventor",
     "description": "It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.",
     "keywords": [
         "wbraganca",
