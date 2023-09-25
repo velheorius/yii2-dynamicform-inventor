@@ -29,7 +29,7 @@
     "require": {
         "yiisoft/yii2": "~2.0.5",
         "symfony/css-selector": "~2.8|~3.0",
-        "symfony/dom-crawler": "~2.8|~3.0"
+        "symfony/dom-crawler": "*"
     },
     "autoload": {
         "psr-4": {
@@ -39,7 +39,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/joindev/yii2-dynamicform-inventor.git"
+            "url": "https://github.com/velheorius/yii2-dynamicform-inventor.git"
         }
     ]
 }
